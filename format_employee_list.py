@@ -25,17 +25,14 @@ def format_phone(number):
     number = re.sub(r"\D", "", number)
 
     # If number starts with 8801 and is 13 digits, strip to last 11 digits
-    if number.startswith("8801"):
+    if len(number) == 11 & number.startswith("01"):
+        pass
+    elif len(number) > 11 & number.startswith("88"):
         number = number[-11:]
-    elif number.startswith("+88"):
+    elif len(number) > 11 & number.startswith("+88"):
         number = number[-11:]    
-    elif number.startswith("01"):
-        pass
-    elif number.startswith("1"):
+    elif len(number)==10 & number.startswith("1"):
         number = "0" + number
-        
-    elif len(number) == 11 and number.startswith("0"):
-        pass
     else:
         print(f"⚠️ Invalid phone number format: {number}")
         number = "invalid"  # Invalid format
@@ -70,6 +67,7 @@ if 'Emergency Contact Relationship' in df.columns:
         'daughter': 'daughter',
         'uncle': 'other',
         'aunt': 'other',
+         
     })
     print('✅ Emergency Contact Relationship normalized')
 
