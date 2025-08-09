@@ -1,0 +1,463 @@
+point_id,distributor,point
+451,SPS Sutrapur,SPS Sutrapur Shipment
+84,Zawad Enterprise,Ranirhat
+450,Agrani Trading Corporation Ltd. (Matuail),Matuail Shipment
+2,"Agrani Trading Corporation, Gulshan",Gulshan
+8,"Agrani Trading Corporation, Mogbazar",Matuail
+9,"Agrani Trading Corporation, Mogbazar",Jatrabari
+10,"Agrani Trading Corporation, Mogbazar",Motijheel
+11,The Jamal & Co - Narayanganj,Adamji
+12,The Jamal & Co - Narayanganj,Jurain
+13,The Jamal & Co - Narayanganj,Madanpur
+14,The Jamal & Co - Narayanganj,Munshiganj
+15,The Jamal & Co - Narayanganj,Nabiganj (DE)
+16,The Jamal & Co - Narayanganj,Fatullah
+17,The Jamal & Co - Narayanganj,Narayanganj
+18,Alam Corporation Ltd.,Gendaria
+19,Alam Corporation Ltd.,Kamrangirchar
+20,Alam Corporation Ltd.,Kotwali
+21,Sales Promotion Service,Nawabganj
+22,Sales Promotion Service,Sreenagar
+23,Sales Promotion Service,Taltola
+24,Sales Promotion Service,Ati Bazar
+25,Sales Promotion Service,Keraniganj
+26,Sales Promotion Service,Moulvibazar (DHK)
+27,Sales Promotion Service,Sutrapur
+28,The Jamal & Co - Dhanmondi,Dhanmondi
+29,The Jamal & Co - Dhanmondi,Mohammadpur
+30,"Agrani Trading Company Ltd, Savar",DEPZ
+31,"Agrani Trading Company Ltd, Savar",Dhamrai
+32,"Agrani Trading Company Ltd, Savar",Zirani
+33,"Agrani Trading Company Ltd, Savar",Jhitka
+34,"Agrani Trading Company Ltd, Savar",Manikganj
+35,"Agrani Trading Company Ltd, Savar",Mohadevpur (DW)
+36,"Agrani Trading Company Ltd, Savar",Singair
+37,"Agrani Trading Company Ltd, Savar",Hemayetpur
+38,"Agrani Trading Company Ltd, Savar",Savar
+39,"Agrani Trading Company Ltd, Savar",Zirabo
+41,"Agrani Trading Company Ltd, Tangail",Madhupur
+42,"Agrani Trading Company Ltd, Tangail",Sakhipur (DN)
+43,"Agrani Trading Company Ltd, Tangail",Sarishabari
+44,"Agrani Trading Company Ltd, Tangail",Ghatail
+45,"Agrani Trading Company Ltd, Tangail",Mirzapur
+46,"Agrani Trading Company Ltd, Tangail",Nagarpur
+47,"Agrani Trading Company Ltd, Tangail",Tangail
+48,Azahar Trading Ltd.,Board Bazar
+49,Azahar Trading Ltd.,Kaliganj (DW)
+50,Azahar Trading Ltd.,Mirer Bazar
+51,Azahar Trading Ltd.,Purbachal
+52,Azahar Trading Ltd.,Tongi
+53,Azahar Trading Ltd.,Khilkhet
+54,Azahar Trading Ltd.,Mazar Chowrasta
+55,Azahar Trading Ltd.,Nikunja
+56,Azahar Trading Ltd.,Sector-14
+58,M/S. A.M.I & Company,Bashon
+59,M/S. A.M.I & Company,Joydebpur
+60,M/S. A.M.I & Company,Bhabanipur
+61,M/S. A.M.I & Company,Kapasia
+62,M/S. A.M.I & Company,Mawna
+63,M/S. A.M.I & Company,Shafipur
+64,Zawad Enterprise,Kaptai
+65,Zawad Enterprise,Muradpur
+66,Zawad Enterprise,Noapara (CTG)
+67,Zawad Enterprise,EPZ
+68,Zawad Enterprise,Halishahar
+69,Zawad Enterprise,Dighinala
+70,Zawad Enterprise,Khagrachhari Sadar
+71,Zawad Enterprise,Langadu
+72,Zawad Enterprise,Manikchhari
+73,Zawad Enterprise,Marissha
+74,Zawad Enterprise,Matiranga
+75,Zawad Enterprise,Nazirhat
+76,Zawad Enterprise,Ramgor
+77,Zawad Enterprise,Barkal
+78,Zawad Enterprise,Belaichhari
+79,Zawad Enterprise,Hathazari
+80,Zawad Enterprise,Horina
+81,Zawad Enterprise,Juraichhari
+82,Zawad Enterprise,Naniarchar
+83,Zawad Enterprise,Rangamati
+85,Arafa Store,Sitakunda
+86,Arafa Store,Anamnaher
+87,Arafa Store,Fouzderhat
+88,Arafa Store,Hadi Fakir Hat
+89,Arafa Store,Mithachora
+90,Arafa Store,Shiber Hat
+91,Arafa Store,Akbor Hat
+92,M/S Al-Amin Store,Cox's Bazar
+93,M/S Al-Amin Store,Hnila
+94,M/S Al-Amin Store,Kalamarchara
+95,M/S Al-Amin Store,Moheshkhali
+96,M/S Al-Amin Store,Ramu
+57,Azahar Trading Ltd.,Sector-4
+97,M/S Al-Amin Store,Teknaf
+98,M/S Al-Amin Store,Ukhia
+99,M/S Al-Amin Store,Chakaria
+100,M/S Al-Amin Store,Eidgah
+101,M/S Al-Amin Store,Lama
+102,M/S Al-Amin Store,Lohagara (CTG)
+103,M/S Al-Amin Store,Pekua
+104,MAQ Distribution,Dewanhat
+105,MAQ Distribution,Rahattar Pul
+106,MAQ Distribution,Anwara
+107,MAQ Distribution,Bandarban (MAQ)
+108,MAQ Distribution,Banshkhali
+109,MAQ Distribution,Boalkhali
+110,MAQ Distribution,Chambol
+111,MAQ Distribution,Keranihat (MAQ)
+112,MAQ Distribution,Khanhat (MAQ)
+113,MAQ Distribution,Patiya
+114,MAQ Distribution,Shantirhat
+115,"M/S. Abdul Latif Chowdhury, Chandpur",Chandpur
+116,"M/S. Abdul Latif Chowdhury, Chandpur",Matlab South
+117,"M/S. Abdul Latif Chowdhury, Chandpur",Ramganj
+118,M/S Rupali Traders,Companiganj (CU)
+119,M/S Rupali Traders,Cumilla-1
+120,M/S Rupali Traders,Cumilla-2
+121,"M/S. Abdul Latif Chowdhury, Chandpur",Barura
+122,"M/S. Abdul Latif Chowdhury, Chandpur",Chauddagram
+123,"M/S. Abdul Latif Chowdhury, Chandpur",Shaharasti
+124,Abdul Latif Chowdhury,Daudkandi
+125,Abdul Latif Chowdhury,Homna
+126,Abdul Latif Chowdhury,Matlab
+127,Abdul Latif Chowdhury,Meghna
+128,Rokeya & Sons,Chhagalnaiya
+129,Rokeya & Sons,Feni
+130,Rokeya & Sons,Fulgazi
+131,Rokeya & Sons,Companiganj (FE)
+132,Rokeya & Sons,Daganbhuiyan
+133,Rokeya & Sons,Senbag
+134,Rokeya & Sons,Sonagazi
+135,M/S. Momin Store,Chatkhil
+136,M/S. Momin Store,Laksham
+138,M/S Sanjib Mazumder,Laxmipur
+139,M/S Sanjib Mazumder,Raipur
+140,M/S Sanjib Mazumder,Ramgati
+141,M/S Sanjib Mazumder,Chowmuhani
+142,M/S Sanjib Mazumder,Hatiya
+144,M/S Sanjib Mazumder,Suborno Char
+145,ADL B.BARIA,Akhaura
+146,ADL B.BARIA,B. Baria
+147,ADL B.BARIA,Bijoynagar
+148,ADL B.BARIA,Kashba
+149,ADL B.BARIA,Madhabpur
+150,ADL B.BARIA,Nabinagar
+151,ADL B.BARIA,Nasirnagar
+137,M/S. Momin Store,Nangalkot
+152,ADL B.BARIA,Salimganj
+153,ADL B.BARIA,Sarail
+154,ADL B.BARIA,Tantor
+155,ADL Habiganj,Ajmiriganj
+156,ADL Habiganj,Aushkandi
+157,ADL Habiganj,Bahubal
+158,ADL Habiganj,Baniyachong
+159,ADL Habiganj,Chunarughat
+160,ADL Habiganj,Habiganj
+161,ADL Habiganj,Nabiganj (SYL)
+162,ADL Habiganj,Sayestaganj
+163,MBKB Ltd (Moulvibazar),Barlekha
+164,MBKB Ltd (Moulvibazar),Beanibazar
+165,MBKB Ltd (Moulvibazar),Kulaura
+166,MBKB Ltd (Moulvibazar),Moulvibazar (SYL)
+167,MBKB Ltd (Moulvibazar),Rajnagar
+168,MBKB Ltd (Moulvibazar),Shamshernagar
+169,MBKB Ltd (Moulvibazar),Sreemangal
+174,Noor Sons,Fulbaria
+175,Noor Sons,Haluaghat
+176,Noor Sons,Muktagacha
+177,Noor Sons,Mymensingh
+178,Noor Sons,Phulpur
+179,Noor Sons,Bhaluka
+180,Noor Sons,Gaffargaon
+181,Noor Sons,Masterbari
+182,Noor Sons,Shambhuganj
+183,Noor Sons,Trishal
+184,Shashi Mohan Roy,Durgapur (SYL)
+185,Shashi Mohan Roy,Kalmakanda
+186,Shashi Mohan Roy,Kendua
+187,Shashi Mohan Roy,Madan
+188,Shashi Mohan Roy,Mohanganj
+189,Shashi Mohan Roy,Netrokona
+190,Shashi Mohan Roy,Purbadhala
+191,Amin Distribution Company Ltd.,Bakshiganj
+192,Amin Distribution Company Ltd.,Nakla
+193,Amin Distribution Company Ltd.,Nalitabari
+194,Amin Distribution Company Ltd.,Rajibpur
+195,Amin Distribution Company Ltd.,Sherpur (SYL)
+196,"J R Corporation Limited, Bhairab",Astagram
+197,"J R Corporation Limited, Bhairab",Belabo
+198,"J R Corporation Limited, Bhairab",Bhairab
+199,"J R Corporation Limited, Bhairab",Itna
+200,"J R Corporation Limited, Bhairab",Kuliarchar
+201,"J R Corporation Limited, Bhairab",Mithamain
+202,"J R Corporation Limited, Bhairab",Raipura
+203,M. Islam Trade Co. Ltd.,Bajitpur
+204,M. Islam Trade Co. Ltd.,Karimganj
+205,M. Islam Trade Co. Ltd.,Katiadi
+206,M. Islam Trade Co. Ltd.,Kishoreganj (SYL)
+207,M. Islam Trade Co. Ltd.,Nandail
+208,M. Islam Trade Co. Ltd.,Pakundia
+209,"J R Corporation Limited, Narsingdi",Araihazar
+211,"J R Corporation Limited, Narsingdi",Narsingdi-1
+212,"J R Corporation Limited, Narsingdi",Ghorashal
+213,"J R Corporation Limited, Narsingdi",Monohardi
+214,"J R Corporation Limited, Narsingdi",Narsingdi-2
+215,Moula Baksh Karim Boksh,Badaghat
+216,Moula Baksh Karim Boksh,Chhatak
+217,Moula Baksh Karim Boksh,Derai
+218,Moula Baksh Karim Boksh,Jagannathpur
+219,Moula Baksh Karim Boksh,Sunamganj
+220,Moula Baksh Karim Boksh Ltd.,Chandipul
+221,Moula Baksh Karim Boksh Ltd.,Golapganj
+222,Moula Baksh Karim Boksh Ltd.,Jaintapur
+223,Moula Baksh Karim Boksh Ltd.,Kalighat
+224,Moula Baksh Karim Boksh Ltd.,Kanaighat
+225,Moula Baksh Karim Boksh Ltd.,Zakiganj
+226,Moula Baksh Karim Boksh Ltd.,Akhalia
+227,Moula Baksh Karim Boksh Ltd.,Companiganj (SYL)
+228,Moula Baksh Karim Boksh Ltd.,Goala Bazar
+229,Moula Baksh Karim Boksh Ltd.,Gowainghat
+230,M/S Azizur Rahman,Chowgacha
+231,M/S Azizur Rahman,Jashore Sadar
+232,M/S Azizur Rahman,Jhikargacha
+233,M/S Azizur Rahman,Khajura
+234,M/S Azizur Rahman,Navaron
+235,M/S Azizur Rahman,Bagarpara
+236,M/S Azizur Rahman,Keshobpur
+237,M/S Azizur Rahman,Monirampur
+238,M/S Azizur Rahman,Noapara (KHL)
+239,Rafiq Enterprise,Dumuria
+240,Rafiq Enterprise,Khulna
+241,Rafiq Enterprise,Senerbazar
+242,Rafiq Enterprise,Bagerhat
+243,Rafiq Enterprise,Mongla
+244,M/S Sheikh Brothers,Kolaroya
+245,M/S Sheikh Brothers,Paikgacha
+246,M/S Sheikh Brothers,Parulia
+247,M/S Sheikh Brothers,Patkelghata
+248,M/S Sheikh Brothers,Satkhira Sadar
+249,M/S Sheikh Brothers,Shyamnagar
+250,Desh Trade Link,Alamdanga
+251,Desh Trade Link,Chuadanga
+252,Desh Trade Link,Darshana
+253,Desh Trade Link,Jibannagar
+254,Desh Trade Link,Sarajganj
+255,Sanaullah Traders,Horinakundu
+256,Sanaullah Traders,Jhenaidah
+257,Sanaullah Traders,Kaliganj (KHL)
+258,Sanaullah Traders,Kotchandpur
+259,Sanaullah Traders,Maheshpur
+260,Sanaullah Traders,Shailkupa
+261,Sanaullah Traders,Sheikhpara
+262,Joarder Traders,Basgram
+263,Joarder Traders,Bheramara
+264,Joarder Traders,Kushtia
+265,Joarder Traders,Poradaha
+266,Akram Enterprise,Arpara
+267,Akram Enterprise,Binodpur
+268,Akram Enterprise,Kalia
+269,Akram Enterprise,Lohagara (KHL)
+270,Akram Enterprise,Magura
+271,Akram Enterprise,Narail
+272,Akram Enterprise,Sreepur
+273,Desh Trade Link,Bamundi
+274,Desh Trade Link,Meherpur
+275,Desh Trade Link,Mujibnagar
+276,Joarder Traders,Dolotpur
+277,Joarder Traders,Mirpur (KUS)
+278,"Hajee & Sons, Barguna",Amtali
+279,"Hajee & Sons, Barguna",Bamna
+280,"Hajee & Sons, Barguna",Barguna
+281,"Hajee & Sons, Barguna",Khepupara
+282,"Hajee & Sons, Barguna",Mathbaria
+283,"Hajee & Sons, Barguna",Patharghata
+284,"Hajee & Sons, Barguna",Taltali
+285,M/S BARISHAL J AHMED & CO.,Barishal
+287,M/S BARISHAL J AHMED & CO.,Torky
+288,M/S BARISHAL J AHMED & CO.,Bakerganj
+289,M/S BARISHAL J AHMED & CO.,Jhalakati
+290,M/S BARISHAL J AHMED & CO.,Morrelganj
+293,M/S BARISHAL J AHMED & CO.,Pirojpur
+295,M/S BARISHAL J AHMED & CO.,Vandaria
+296,A. Rahman & Sons,Bangla Bazar
+297,A. Rahman & Sons,Bhola
+298,A. Rahman & Sons,Borhanuddin
+299,A. Rahman & Sons,Char Fasson
+300,A. Rahman & Sons,Dakhin Aicha
+301,A. Rahman & Sons,Lalmohan
+302,A. Rahman & Sons,Tazumuddin
+303,Hajee & Sons,Dashmina
+304,Hajee & Sons,Dumki
+305,Hajee & Sons,Galachipa
+306,Hajee & Sons,Kalaya
+307,Hajee & Sons,Patuakhali
+308,AKHTER ENTERPRISE,Bhanga
+309,AKHTER ENTERPRISE,Boalmari
+310,AKHTER ENTERPRISE,Faridpur (KHU)
+311,AKHTER ENTERPRISE,Kanaipur
+312,AKHTER ENTERPRISE,Madhukhali
+313,AKHTER ENTERPRISE,Muksudpur
+314,AKHTER ENTERPRISE,Nagarkanda
+315,AKHTER ENTERPRISE,Sadarpur
+316,Kazi Sayed Ali,Gopalganj
+317,Kazi Sayed Ali,Kashiani
+294,M/S BARISHAL J AHMED & CO.,Uzirpur
+291,M/S BARISHAL J AHMED & CO.,Muladi
+292,M/S BARISHAL J AHMED & CO.,Patarhat
+318,Kazi Sayed Ali,Kotalipara
+319,M/S Tarik Ahmed Dipu (Madaripur),Madaripur
+320,M/S Tarik Ahmed Dipu (Madaripur),Tekerhat
+321,M/S Tarik Ahmed Dipu (Madaripur),Vhurghata
+322,M/S Tarik Ahmed Dipu (Rajbari),Baliakandi
+323,M/S Tarik Ahmed Dipu (Rajbari),Kumarkhali
+324,M/S Tarik Ahmed Dipu (Rajbari),Pangsha
+325,M/S Tarik Ahmed Dipu (Rajbari),Rajbari
+326,SPS Shariatpur,Damudda
+327,SPS Shariatpur,Jajira
+328,SPS Shariatpur,Shariatpur
+329,SPS Shariatpur,Shibchar
+330,SPS Shariatpur,Shokhipur
+331,Mr Brothers,Bogura
+332,Mr Brothers,Dupchacia
+333,Mr Brothers,Dhunot
+334,Mr Brothers,Nandigram
+335,Mr Brothers,Sherpur (RAJ)
+336,Mr Brothers,Tarash
+337,Mr Brothers,Ullahpara
+338,Daffodils,Chatmohar
+339,Daffodils,Faridpur (RAJ)
+340,Daffodils,Ishwardi
+341,Daffodils,Shahzadpur
+342,Sales Connect Limited,Akdonto
+343,Sales Connect Limited,Ataikula
+344,Sales Connect Limited,Bera
+345,Sales Connect Limited,Kashinathpur
+346,Sales Connect Limited,Pabna
+347,Sales Connect Limited,Santhia
+348,Sales Connect Limited,Sujanagar
+349,Mr Brothers,Belkuchi
+350,Mr Brothers,Hatikumrul
+351,Mr Brothers,Pipulbaria
+352,Mr Brothers,Sirajganj
+353,Moulovi Brothers,Biral
+354,Moulovi Brothers,Birampur
+355,Moulovi Brothers,Birganj
+356,Moulovi Brothers,Dinajpur
+357,Moulovi Brothers,Fulbari
+358,Moulovi Brothers,Setabganj
+359,M/S. Spectrum Trading Corporation,Bonarpara
+360,M/S. Spectrum Trading Corporation,Gaibandha
+361,M/S. Spectrum Trading Corporation,Palashbari
+362,M/S. Spectrum Trading Corporation,Pirganj (JOY)
+363,M/S. Spectrum Trading Corporation,Sundarganj
+364,M/S. Spectrum Trading Corporation,Akkelpur
+365,M/S. Spectrum Trading Corporation,Dhamoirhat
+366,M/S. Spectrum Trading Corporation,Ghoraghat
+367,M/S. Spectrum Trading Corporation,Gobindaganj
+368,M/S. Spectrum Trading Corporation,Joypurhat
+369,M/S. Spectrum Trading Corporation,Mokamtola
+370,M/S. Spectrum Trading Corporation,Panchbibi
+371,Moulovi Brothers,Baliadangi
+372,Moulovi Brothers,Panchagarh
+373,Moulovi Brothers,Panchagarh 2
+374,Moulovi Brothers,Pirganj (D-2)
+375,Moulovi Brothers,Ranisankail
+376,Moulovi Brothers,Tetulia
+3,"Agrani Trading Corporation, Mirpur",Mirpur-1
+4,"Agrani Trading Corporation, Mirpur",Mirpur-2
+5,"Agrani Trading Corporation, Mogbazar",Banasree
+6,"Agrani Trading Corporation, Mogbazar",Mogbazar
+7,"Agrani Trading Corporation, Mogbazar",Bhulta
+210,"J R Corporation Limited, Narsingdi",Madhabdi
+377,Moulovi Brothers,Thakurgaon
+378,M/S Haque & Co.,Bholahat
+379,M/S Haque & Co.,Chapai Nawabganj
+380,M/S Haque & Co.,Hayat More
+381,M/S Haque & Co.,Nachol
+382,M/S Haque & Co.,Rohanpur
+383,M/S Haque & Co.,Shibganj
+384,M/S Haque & Co.,Zero Point
+385,Channa & Brothers,Adamdighi
+386,Channa & Brothers,Atrai
+387,Channa & Brothers,Badalgachhi
+388,Channa & Brothers,Manda
+389,Channa & Brothers,Mohadevpur (RAJ)
+390,Channa & Brothers,Naogaon
+391,Channa & Brothers,Nazipur
+392,Channa & Brothers,Niamatpur
+393,Channa & Brothers,Raninagar
+394,Channa & Brothers,Sapahar
+395,Sumon Trading Corporation,Baraigram
+396,Sumon Trading Corporation,Dayarampur
+397,Sumon Trading Corporation,Gurudaspur
+398,Sumon Trading Corporation,Natore
+399,Sumon Trading Corporation,Singra
+400,M/S Abul Hossain,Godagari
+401,M/S Abul Hossain,kakon
+402,M/S Abul Hossain,Kasore
+403,M/S Abul Hossain,Madariganj
+405,M/S Abul Hossain,Tanore
+406,M/S Abul Hossain,Bagha
+407,M/S Abul Hossain,Charghat
+409,Sumon Trading Corporation,Bhabaniganj (Raj 2)
+410,Sumon Trading Corporation,Durgapur (Raj 2)
+411,Sumon Trading Corporation,Puthia (Raj 2)
+412,Sumon Trading Corporation,Taherpur (Raj 2)
+413,"Asiatic Distributions Limited, Kurigram",Bhurungamari
+414,"Asiatic Distributions Limited, Kurigram",Chilmari
+415,"Asiatic Distributions Limited, Kurigram",Kochakata
+416,"Asiatic Distributions Limited, Kurigram",Kurigram
+417,"Asiatic Distributions Limited, Kurigram",Nageswari
+418,"Asiatic Distributions Limited, Kurigram",Rajarhat
+419,"Asiatic Distributions Limited, Kurigram",Ulipur
+420,Asiatic Distributions Limited  Lalmonirhat,Aditmari
+421,Asiatic Distributions Limited  Lalmonirhat,Borobari
+452,SPS Keranigonj,SPS Keranigonj Shipment
+143,M/S Sanjib Mazumder,Maijdee
+404,M/S Abul Hossain,Rajshahi-1
+408,M/S Abul Hossain,Rajshahi-2
+456,MT Distributor,MT Cox's Bazar
+454,MT Distributor,MT Banani
+172,"Agrani Trading Company Ltd, Jamalpur",Madarganj
+173,"Agrani Trading Company Ltd, Jamalpur",Nandina
+171,"Agrani Trading Company Ltd, Jamalpur",Jamalpur
+170,"Agrani Trading Company Ltd, Jamalpur",Islampur
+286,M/S BARISHAL J AHMED & CO.,Swarupkathi
+40,"Agrani Trading Company Ltd, Tangail",Bhuapur
+458,MT Distributor,Moulvibazar (SYL)
+459,MT Distributor,Bahubal
+460,MT Distributor,MT Dewanhat Ctg
+461,MT Distributor,Bogura
+462,MT Distributor,Pabna
+463,MT Distributor,Dhap
+464,MT Distributor,Rajshahi-1
+465,MT Distributor,Rajshahi-2
+1,"Agrani Trading Corporation, Gulshan",Badda
+422,Asiatic Distributions Limited  Lalmonirhat,Borokhata
+423,Asiatic Distributions Limited  Lalmonirhat,Hatibandha
+424,Asiatic Distributions Limited  Lalmonirhat,Kaliganj (RAJ)
+425,Asiatic Distributions Limited  Lalmonirhat,Lalmonirhat
+426,Asiatic Distributions Limited  Lalmonirhat,Patgram
+427,Asiatic Distributions Limited  Lalmonirhat,Phulbari
+428,"Shaireen Enterprise, Rangpur",Badarganj
+429,"Shaireen Enterprise, Rangpur",Choran
+430,"Shaireen Enterprise, Rangpur",Dhap
+431,"Shaireen Enterprise, Rangpur",Gangachara
+432,"Shaireen Enterprise, Rangpur",Haragach
+433,"Shaireen Enterprise, Rangpur",Jaigir
+434,"Shaireen Enterprise, Rangpur",Kaunia
+435,"Shaireen Enterprise, Rangpur",Parkmore
+436,"Shaireen Enterprise, Rangpur",Pirgachha
+437,"Shaireen Enterprise, Rangpur",Rangpur
+438,"Shaireen Enterprise, Rangpur",Shotibari
+439,"Shaireen Enterprise, Rangpur",Taraganj
+440,"Shaireen Enterprise, Rangpur",Vendabari
+441,"Shaireen Enterprise, Nilphamary",Debiganj
+442,"Shaireen Enterprise, Nilphamary",Dimla
+443,"Shaireen Enterprise, Nilphamary",Domar
+444,"Shaireen Enterprise, Nilphamary",Jaldhaka
+445,"Shaireen Enterprise, Nilphamary",Kishoreganj (RAJ)
+446,"Shaireen Enterprise, Nilphamary",Nilphamari
+447,"Shaireen Enterprise, Nilphamary",Parbatipur
+448,"Shaireen Enterprise, Nilphamary",Ranir Bandar
+449,"Shaireen Enterprise, Nilphamary",Saidpur
