@@ -39,7 +39,7 @@ def format_phone(number):
     if len(number) == 11 and number.startswith("01"):
         return number
     else:
-        return "invalid"
+        return number
     
 
 # Apply cleaning
@@ -50,10 +50,13 @@ for col in phone_columns:
     else:
         print(f"⚠️ Column not found: {col}")
 
-# Convert 'MFS Type' to lowercase
-if 'MFS Type' in df.columns:
-    df['MFS Type'] = df['MFS Type'].astype(str).str.lower()
-    print('✅ MFS Type converted to lowercase')
+def safe_lower(val):
+    return val.lower() if isinstance(val, str) else val
+
+def safe_upper(val):
+    return val.upper() if isinstance(val, str) else val
+
+
 
 # Normalize 'Emergency Contact Relationship'
 if 'Emergency Contact Relationship' in df.columns:
@@ -89,31 +92,18 @@ if 'Nominee Relation' in df.columns:
     })
     print('✅ Nominee Relation normalized')
 
-# Lowercase for Gender
-if 'Gender' in df.columns:
-    df['Gender'] = df['Gender'].astype(str).str.lower()
-    print('✅ Gender converted to lowercase')
-
-# Lowercase for Religion
-if 'Religion' in df.columns:
-    df['Religion'] = df['Religion'].astype(str).str.lower()
-    print('✅ Religion converted to lowercase')
-
-# Lowercase for Marital Status
-if 'Marital Status' in df.columns:
-    df['Marital Status'] = df['Marital Status'].astype(str).str.lower()
-    print('✅ Marital Status converted to lowercase')
 
 
-#format Bloog Group to Upper Case
-if 'Blood Group' in df.columns:
-    df['Blood Group'] = df['Blood Group'].astype(str).str.upper()
-    print('✅ Blood Group converted to uppercase')    
 
-#Upper Case for Status
-if 'Status' in df.columns:
-    df['Status'] = df['Status'].astype(str).str.upper()
-    print('✅ Status converted to uppercase')
+#converting columns
+df['MFS Type'] = df['MFS Type'].apply(safe_lower)
+df['Gender'] = df['Gender'].apply(safe_lower)
+df['Religion'] = df['Religion'].apply(safe_lower)
+df['Marital Status'] = df['Marital Status'].apply(safe_lower)
+df['Blood Group'] = df['Blood Group'].apply(safe_upper)
+df['Status'] = df['Status'].astype(str).apply(safe_upper)
+
+
 
 # Save to new Excel
 df.to_excel("formatted_updatable_employee_list.xlsx", index=False)
