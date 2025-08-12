@@ -1,7 +1,7 @@
 import pandas as pd
 
 # === Step 1: Read files ===
-main_df = pd.read_excel("filterted_new_employee_list.xlsx")  # Main file
+main_df = pd.read_excel("newly_formatted_updatable_employee_list.xlsx")  # Main file
 points_df = pd.read_excel("point_by_distributor.xlsx")       # Reference file
 
 # Strip spaces in column names
@@ -43,7 +43,7 @@ output_df = merged_df[['dist_orig', 'terr_orig', 'point_orig', 'point_id']]
 output_df.columns = ['distributor', 'territory', 'point', 'point_id']
 
 # === Step 4: Save output ===
-output_df.to_excel("mapped_points.xlsx", index=False)
+output_df.to_excel("mapped_points_for_update.xlsx", index=False)
 
 # Debug info
 matches_found = output_df['point_id'].notna().sum()

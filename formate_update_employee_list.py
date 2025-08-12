@@ -58,39 +58,39 @@ def safe_upper(val):
 
 
 
-# Normalize 'Emergency Contact Relationship'
-if 'Emergency Contact Relationship' in df.columns:
-    df['Emergency Contact Relationship'] = df['Emergency Contact Relationship'].astype(str).str.lower().replace({
-        'father': 'father',
-        'mother': 'mother',
-        'brother': 'brother',
-        'sister': 'sister',
-        'wife': 'spouse',
-        'husband': 'spouse',
-        'son': 'son',
-        'daughter': 'daughter',
-        'uncle': 'other',
-        'aunt': 'other',
-        '': ''
-    })
-    print('✅ Emergency Contact Relationship normalized')
+# # Normalize 'Emergency Contact Relationship'
+# if 'Emergency Contact Relationship' in df.columns:
+#     df['Emergency Contact Relationship'] = df['Emergency Contact Relationship'].astype(str).str.lower().replace({
+#         'father': 'father',
+#         'mother': 'mother',
+#         'brother': 'brother',
+#         'sister': 'sister',
+#         'wife': 'spouse',
+#         'husband': 'spouse',
+#         'son': 'son',
+#         'daughter': 'daughter',
+#         'uncle': 'other',
+#         'aunt': 'other',
+#         '': ''
+#     })
+#     print('✅ Emergency Contact Relationship normalized')
 
-#Nominee Relation
-if 'Nominee Relation' in df.columns:
-    df['Nominee Relation'] = df['Nominee Relation'].astype(str).str.lower().replace({
-        'father': 'father',
-        'mother': 'mother',
-        'brother': 'brother',
-        'sister': 'sister',
-        'wife': 'spouse',
-        'husband': 'spouse',
-        'son': 'son',
-        'daughter': 'daughter',
-        'uncle': 'other',
-        'aunt': 'other',
-        '': ''
-    })
-    print('✅ Nominee Relation normalized')
+# #Nominee Relation
+# if 'Nominee Relation' in df.columns:
+#     df['Nominee Relation'] = df['Nominee Relation'].astype(str).str.lower().replace({
+#         'father': 'father',
+#         'mother': 'mother',
+#         'brother': 'brother',
+#         'sister': 'sister',
+#         'wife': 'spouse',
+#         'husband': 'spouse',
+#         'son': 'son',
+#         'daughter': 'daughter',
+#         'uncle': 'other',
+#         'aunt': 'other',
+#         '': ''
+#     })
+#     print('✅ Nominee Relation normalized')
 
 
 
@@ -102,9 +102,11 @@ df['Religion'] = df['Religion'].apply(safe_lower)
 df['Marital Status'] = df['Marital Status'].apply(safe_lower)
 df['Blood Group'] = df['Blood Group'].apply(safe_upper)
 df['Status'] = df['Status'].astype(str).apply(safe_upper)
+df['Emergency Contact Relationship'] = df['Emergency Contact Relationship'].apply(safe_lower)
+df['Nominee Relation'] = df['Nominee Relation'].apply(safe_lower)
 
 
 
 # Save to new Excel
-df.to_excel("formatted_updatable_employee_list.xlsx", index=False)
+df.to_excel("newly_formatted_updatable_employee_list.xlsx", index=False)
 print("✅ File saved: formatted_new_employee_list.xlsx")
